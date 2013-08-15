@@ -1,4 +1,3 @@
 eXpress-Game-Studio
 ===================
-
-xgs - game maker 
+eXpress Game Studio / C# / OpenGL / IronRuby
